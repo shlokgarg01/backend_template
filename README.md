@@ -3,3 +3,7 @@
 PORT = 4000
 DB_URI = // mongodb connection string
 ```
+- run the below command to install all the dependencies
+```
+npm install
+```
